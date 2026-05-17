@@ -13,27 +13,22 @@ h1 {
     font-size: 96px!important; 
     text-align: center; 
 } 
-
 .fk {
     font-weight: bold;
 }
-
 .feher {
     color: white;
     background-color: black;
 }
-
 .fekete {
     color: black;
     background-color: white;
 }
-
 .alakzat { 
     font-size: 6em; 
     text-align: center; 
     margin: 0; 
 } 
-
 .kepalairas { 
     font-style: italic; 
     font-size: 12px; 
@@ -41,7 +36,6 @@ h1 {
     border: 1px solid black; 
     border-radius: 6px; 
 } 
-
 li {
     list-style-image: url("huszar-felsorolas.png");
     line-height: 2.5em;
